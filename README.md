@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Amit_R_Thakur</h1>
 
-
-![Quote](https://github-readme-quotes.herokuapp.com/quote?theme=dark&animation=grow_out_in)
+![Quote](https://github-readme-quotes.herokuapp.com/quote?theme=gruvbox&animation=grow_out_in&layout=churchill&quoteCategory=programming)
 
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=prathm-sp&theme=juicyfresh" alt="prathm-sp" /></a> </p>
